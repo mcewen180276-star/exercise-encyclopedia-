@@ -1,11 +1,6 @@
-Exercise Library Pro V2
-
-Upload the contents of this folder to GitHub Pages.
-
-Expanded built-in library: 2287 exercise entries, across 82 equipment types. Entries include technique, controlled-tempo and pause/interval variations. All equipment categories have linked entries.
-
-V1 browser data is preserved automatically, including custom exercises, client guides and saved settings. Create a JSON backup before upgrading as an extra precaution.
-
-Demonstration links open search results, not individually verified videos. Some exercise instructions are concise general summaries and should be checked before use with clients.
-
-Use the browser Print > Save as PDF to generate PDF guides.
+Exercise Library Pro V3
+Upload index.html, icon.svg and manifest.webmanifest to GitHub Pages.
+Fix: Training Methods Find exercises and Equipment See exercises buttons (HTML attribute escaping).
+New: Ab sling and Tornado ball equipment and 20 detailed exercises; additional distinct movements for multiple equipment types.
+Existing local storage key is unchanged so saved guides and custom exercises are retained on the same browser/origin. Make a backup before upgrading.
+Video links are search results, not verified direct demonstrations.
