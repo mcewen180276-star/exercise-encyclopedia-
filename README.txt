@@ -1,13 +1,11 @@
-EXERCISE LIBRARY PRO v1
+Exercise Library Pro V2
 
-Upload index.html, manifest.webmanifest and icon.svg to the root of a GitHub repository and enable Settings > Pages > Deploy from branch > main / root. Open the GitHub Pages URL.
+Upload the contents of this folder to GitHub Pages.
 
-Alternatively open index.html directly in a browser. All built-in content works offline; external demo searches require internet.
+Expanded built-in library: 2287 exercise entries, across 82 equipment types. Entries include technique, controlled-tempo and pause/interval variations. All equipment categories have linked entries.
 
-PDF: add exercises to Client guide, choose print style, then Print / Save PDF and select Save as PDF.
+V1 browser data is preserved automatically, including custom exercises, client guides and saved settings. Create a JSON backup before upgrading as an extra precaution.
 
-Client guide: Export client HTML downloads a self-contained page to share with a client.
+Demonstration links open search results, not individually verified videos. Some exercise instructions are concise general summaries and should be checked before use with clients.
 
-BACKUPS: use Add & backup > Download full JSON backup regularly. Browser storage is device/browser-specific.
-
-201 built-in exercises, 82 equipment types, 51 training methods. Videos are targeted search links, not individually verified demos. This first version has no anatomical illustrations.
+Use the browser Print > Save as PDF to generate PDF guides.
